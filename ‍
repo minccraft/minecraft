@@ -1,0 +1,22 @@
+<html>
+ <head>
+  <meta name="google-site-verification" content="6NrPduBZPmd-sjtyjlMAhTHkS6P8od4V0NbWJGJFbfQ" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>My Minecraft</title>
+   <link rel="stylesheet" herf="https://maxcdn.bootstrap.min.css">
+   </head>
+   <body>
+   <div class="container">
+     <div class="container">
+       <div class="col-sm-12">
+         <h1>Minecraft!!!</h1>
+         <h2>What is Minecraft<h2>
+         <p>Minecraft is a sandbox game that milions of playes go on, cross-platform.</p>
+         <img src="https://compass-ssl.xbox.com/assets/41/f1/41f15a54-276e-4905-a558-40da2bc0aaaa.jpg?n=Minecraft_Multi-Feature-1084_Villagers_1600x600.jpg" alt="Minecraft" width="800" height="300">
+         <a href="https://www.youtube.com/channel/UCZcZhRxk9PYiDhP2a2L9-Mw">
+         <p>Please Subscribe to my YouTube Channel.</p>
+        </div>
+       </div>
+      </div>
+     </body>
+    </html>
